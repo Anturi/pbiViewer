@@ -14,4 +14,3 @@ filters: 1-0 to show the filters sidebar in the report
 p: power bi parameters by URL
 
 I hope I can help with my grain of sand and continue to support projects like these. 
-
