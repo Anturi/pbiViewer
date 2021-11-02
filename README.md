@@ -1,4 +1,4 @@
-# Power BI Embedded for customers API PHP with parameters
+# Power BI Embedded for Customers API PHP and Parameters
 
 This program allows to create embedded power bi reports, it is developed in PHP and the changes that must be made are in the file procesar.php where the user must be replaced with the email of the user with Power BI PRO license and his credentials to make the consumption of embedded reports. 
 
