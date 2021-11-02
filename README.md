@@ -8,9 +8,9 @@ The additional files are created by the power bi library for embedded visualizat
 
 The parameters included in index.php correspond to: 
 
-group: workspace ID
-reports: report ID
-filters: 1-0 to show the filters sidebar in the report
-p: power bi parameters by URL
+group: workspace ID.
+reports: report ID.
+filters: 1-0 to show the filters sidebar in the report.
+p: power bi parameters by URL.
 
 I hope I can help with my grain of sand and continue to support projects like these. 
