@@ -8,4 +8,3 @@ The additional files are created by the power bi library for embedded visualizat
 
 I hope I can help with my grain of sand and continue to support projects like these. 
 
-Translated with www.DeepL.com/Translator (free version)
