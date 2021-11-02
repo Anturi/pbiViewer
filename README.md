@@ -8,6 +8,7 @@ The additional files are created by the power bi library for embedded visualizat
 
 The parameters included in index.php correspond to: 
 
+refresh: 1-0 to refresh dataset of report.</br>
 group: workspace ID.</br>
 reports: report ID.</br>
 filters: 1-0 to show the filters sidebar in the report.</br>
